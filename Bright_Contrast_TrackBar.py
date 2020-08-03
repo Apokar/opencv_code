@@ -5,7 +5,8 @@ import numpy as np
 
 alpha = 0.3
 beta = 80
-img_path = r"D:\work\PycharmProjects\photo_mark\20180226194648185.png"
+img_path = r"D:\work\PycharmProjects\photo_mark\20180226194648185.png" 
+# 图片路径
 img = cv2.imread(img_path)
 img2 = cv2.imread(img_path)
 
